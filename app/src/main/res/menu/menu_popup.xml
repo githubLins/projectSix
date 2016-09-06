@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:title="世界您好"
+        android:id="@+id/menu_popup1"
+
+        />
+    <item
+        android:title="中国您好"
+        android:id="@+id/menu_popup2"
+        />
+
+</menu>

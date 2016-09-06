@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.administrator.projectsix.MainActivity">
+    <item
+        android:id="@+id/action_settings"
+        android:orderInCategory="100"
+        android:title="新建"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menu_another"
+        android:title="其他"/>
+
+    <item
+        android:id="@+id/menu_cannel"
+        android:title="取消"/>
+
+</menu>

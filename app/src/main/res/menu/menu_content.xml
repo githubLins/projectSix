@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_content1"
+        android:orderInCategory="100"
+        android:title="您好中国！！" />
+    <item
+        android:id="@+id/menu_content2"
+        android:title="您好世界！！"/>
+
+</menu>
